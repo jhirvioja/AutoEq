@@ -6030,6 +6030,7 @@ from the same source.
 - [Sony MDR-EX800ST](./RikudouGoku/in-ear/Sony%20MDR-EX800ST) by RikudouGoku
 - [Sony MDR-F1](./oratory1990/over-ear/Sony%20MDR-F1) by oratory1990
 - [Sony MDR-G75](./Headphone.com%20Legacy/over-ear/Sony%20MDR-G75) by Headphone.com Legacy
+- [Sony MDR-M1](./aregina/over-ear/Sony%20MDR-M1) by aregina on GRAS 45CA-8
 - [Sony MDR-M1ST](./crinacle/GRAS%2043AG-7%20over-ear/Sony%20MDR-M1ST) by crinacle on GRAS 43AG-7
 - [Sony MDR-MA900](./oratory1990/over-ear/Sony%20MDR-MA900) by oratory1990
 - [Sony MDR-MA900](./crinacle/GRAS%2043AG-7%20over-ear/Sony%20MDR-MA900) by crinacle on GRAS 43AG-7
